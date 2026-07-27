@@ -1,7 +1,19 @@
 {
-  "version": "2.5.2.1",
+  "version": "25.2.1",
   "title": "🚀 নতুন আপডেট এসেছে",
-  "message": "নতুন ভার্সন এখনই ইনস্টল করুন",
+  "message": "এই ভার্সনে নতুন ফিচার যোগ করা হয়েছে।",
   "apk": "https://drive.google.com/uc?export=download&id=1wwxtzAfJ5RTCCIa5sUCIJNhYfKheBkYN",
-  "force": true
+  "force": false,
+  "releaseDate": "27 জুলাই 2026",
+  "size": "31.87 MB",
+  "developer": "Ariful Islam",
+  "whatsNew": [
+    "🎧 নতুন অডিও প্লেয়ার",
+    "🎥 ভিডিও সেকশন উন্নত",
+    "🤖 AI Search উন্নত",
+    "📖 নতুন ইসলামিক কনটেন্ট",
+    "⚡ স্পিড বৃদ্ধি",
+    "🐞 Bug Fix"
+  ]
+}
 }
